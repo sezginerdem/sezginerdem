@@ -1,6 +1,6 @@
 ### Hi there Sezgin is here! 👋
 
-    • A highly motivated, result-oriented experienced (1+ year) DevOps Engineer.
+    • A highly motivated, result-oriented experienced DevOps Engineer.
     • Have 3+ years of experience in Data Science, and also 10+ years of experience in Teaching and Management in 
     "Military Higher Education" as an Academician.
     • Proficient in DevOps, CI/CD pipelines, Infrastructure as Code and Microservices.
