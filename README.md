@@ -7,7 +7,6 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sezginerdem/)
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://serdem.medium.com/)
 
-<br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=sezginerdem&show_icons=true&theme=vision-friendly-dark" align='left' width="60%">
 
 <br><br><br><br><br><br><br><br><br>
