@@ -10,7 +10,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=sezginerdem&show_icons=true&theme=vision-friendly-dark" align='left' width="50%">
 
 <br><br><br><br><br><br><br><br><br>
-<br>
+
 - 🔭 A highly motivated, result-oriented experienced DevOps Engineer.
 - 🌱 Have 3+ years of experience in Data Science, and also 10+ years of experience in Teaching and Management in "Military Higher Education" as an Academician.
 - 💬 Proficient in DevOps, CI/CD pipelines, Infrastructure as Code and Microservices.
