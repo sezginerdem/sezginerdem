@@ -21,7 +21,6 @@
 
 - 📫 How to reach me: Of Course via [Linkedin](https://www.linkedin.com/in/sezginerdem/) 👀
 
-
 ## Medium Articles
 
 - [My Medium Articles](https://serdem.medium.com/)
