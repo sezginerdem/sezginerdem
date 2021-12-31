@@ -17,7 +17,6 @@
 - ⚡ I am highly proficient with Kubernetes and Docker/Docker Swarm.
 - 👯 Solid understanding of Software Development Lifecycle with Agile Methodologies. A good team player, and as an ambitious self-starter I am keen to learn and use new technologies and methods. In addition, having particular interest and academic background in human relations I always strive to create a positive atmosphere and cultivate a strong team spirit.
 
-
 - 📫 How to reach me: Of Course via [Linkedin](https://www.linkedin.com/in/sezginerdem/) 👀
 
 ## Medium Articles
