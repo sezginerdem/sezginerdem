@@ -22,3 +22,9 @@
 ## Medium Articles
 
 - [My Medium Articles](https://serdem.medium.com/)
+
+# ✨ Certificates ✨ 
+
+✨ [Terraform Associate: Hashicorp Certified](https://www.credly.com/earner/earned/badge/4b4b50bb-c8c4-4a65-a65f-be4bb1b73df0)
+✨ [AWS Certified Solutions Architect – Associate](https://www.credly.com/earner/earned/badge/f2d275ff-a222-4d7a-bd75-588022e95be6)
+✨ [AWS Certified Cloud Practitioner](https://www.credly.com/earner/earned/badge/f0e35d94-ecbe-44ff-abd6-e3d117b7d7a6)
