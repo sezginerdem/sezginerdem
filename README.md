@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Sezgin
-# <h3>`DevOps | Cloud | AWS | Docker | Kubernetes | Jenkins | Terraform | Ansible | Agile | CI/CD |`</h3>
+# <h3>`DevOps | Cloud | AWS | Docker | Kubernetes | Jenkins | Terraform | Ansible | Agile | CI/CD`</h3>
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sezginerdem" alt="sezginerdem" /> </p>
