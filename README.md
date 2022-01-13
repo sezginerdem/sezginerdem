@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Sezgin
-# <h3>`DevOps | Cloud | AWS | Docker | Kubernetes | Jenkins | Terraform | Ansible | Agile | CI/CD`</h3>
-<br>
 
+<br>
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="react" width="45" height="45" />
