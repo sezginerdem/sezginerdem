@@ -7,11 +7,12 @@
   <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="Docker"/>
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="terraform"/>
   <img src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg" alt="ansible"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws"/>
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="jenkins"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="azure"/>
-  <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="google"/>
+  <img src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-ar21.svg" alt="vault"/>
+  <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python"/>
   <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="go" width="100" />
   <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git"/>
