@@ -9,6 +9,7 @@
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="terraform"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="45" height="45" />
+  <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/jenkins/jenkins-icon.svg" alt="git"/>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sezginerdem" alt="sezginerdem" /> </p>
