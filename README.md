@@ -2,6 +2,18 @@
 # <h3>`DevOps | Cloud | AWS | Docker | Kubernetes | Jenkins | Terraform | Ansible | Agile | CI/CD`</h3>
 <br>
 
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="react" width="45" height="45" />
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="Docker"/>
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="terraform"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="45" height="45" />
+  <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt=".NET" />
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sezginerdem" alt="sezginerdem" /> </p>
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sezginerdem/)
