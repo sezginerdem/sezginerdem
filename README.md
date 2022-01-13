@@ -3,7 +3,7 @@
 <br>
 
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="go" width="45" height="45" />
+  <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="go" width="45" height="45" />
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes"/>
   <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="Docker"/>
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform"/>
