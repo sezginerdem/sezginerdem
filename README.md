@@ -11,6 +11,7 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="45" height="45" />
   <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/google_cloud/google_cloud-ar21.svg" alt="google" width="45" height="45" />
   <img src=https://www.vectorlogo.zone/util/preview.html?image=/logos/jenkins/jenkins-official.svg" alt="jenkins" width="45" height="45" />
+  <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/jenkins/jenkins-icon.svg" alt="jenkins" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sezginerdem" alt="sezginerdem" /> </p>
