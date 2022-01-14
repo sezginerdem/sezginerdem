@@ -38,7 +38,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=sezginerdem&show_icons=true&theme=vision-friendly-dark" align='left' width="50%">
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 
 - 🔭 Highly motivated, result-oriented experienced DevOps Engineer.
