@@ -40,6 +40,7 @@
 
 <br><br><br><br><br><br><br>
 
+
 - 🔭 Highly motivated, result-oriented experienced DevOps Engineer.
 - 🌱 Proficient in DevOps, CI/CD pipelines, Infrastructure as Code and Microservices.
 - ✌ Have strong knowledge and understanding of these technologies as well as Amazon Web Services (AWS). 
