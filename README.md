@@ -61,3 +61,7 @@
 <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="50"/> [AWS Certified Solutions Architect – Associate](https://www.credly.com/earner/earned/badge/f2d275ff-a222-4d7a-bd75-588022e95be6)
 
 <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="50"/> [AWS Certified Cloud Practitioner](https://www.credly.com/earner/earned/badge/f0e35d94-ecbe-44ff-abd6-e3d117b7d7a6)
+
+
+
+![snake gif](https://github.com/sezginerdem/sezginerdem/blob/output/github-contribution-grid-snake.gif)
