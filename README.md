@@ -54,9 +54,11 @@
 
 - [My Medium Articles](https://serdem.medium.com/)
 
-# ✨ Certificates ✨ 
+# ✨ Certificates ✨
 
-<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="20"/>       [Terraform Associate: Hashicorp Certified](https://www.credly.com/earner/earned/badge/4b4b50bb-c8c4-4a65-a65f-be4bb1b73df0)
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="20"/> [CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/c085d450-cf01-4060-8276-4581ce2e1ff2/public_url)
+
+<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="20"/> [Terraform Associate: Hashicorp Certified](https://www.credly.com/earner/earned/badge/4b4b50bb-c8c4-4a65-a65f-be4bb1b73df0)
 
 <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="50"/> [AWS Certified Solutions Architect – Associate](https://www.credly.com/earner/earned/badge/f2d275ff-a222-4d7a-bd75-588022e95be6)
 
