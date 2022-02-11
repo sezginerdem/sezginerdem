@@ -16,8 +16,6 @@
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg" alt="prometheus"/>
   <img src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg" alt="gradle"/>
   
-  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="elastic" width="100"/>
-  <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg" alt="kibana" width="100"/>
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" alt="bash" width="100"/>
   <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python"/>
   <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="go" width="100" height="50" />
@@ -25,7 +23,7 @@
   <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" />
   <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-official.svg" alt="bitbucket" width="160" height="60" />
-  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="bitbucket" width="160" height="80" />
+  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="jira" width="160" height="80" />
 
 </p>
 
