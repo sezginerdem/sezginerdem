@@ -44,10 +44,9 @@
 <br><br><br><br><br><br><br><br>
 
 
-- 🔭 Highly motivated, result-oriented experienced DevOps Engineer.
-- 🌱 Proficient in DevOps, CI/CD pipelines, Infrastructure as Code and Microservices.
-- ✌ Have strong knowledge and understanding of these technologies as well as Amazon Web Services (AWS). 
-- ⚡ Highly proficient with Kubernetes and Docker/Docker Swarm.
+- 🔭 DevOps engineer with 2+ years of experience in supporting and automating critical deployment.
+- 🌱 Proficient in CI/CD implementation microservice application orchestrated with Kubernetes for different environments such as QA automation, staging, production and deployed on AWS created with Terraform and configured with Ansible.
+- ✌ As a certified AWS Solution Architect, builds the infrastructure from scratch with (Iac) Terraform on AWS, develops alternative solutions to problems and automates this process. Thus, ensures optimum use of resources.
 - 👯 Solid understanding of Software Development Lifecycle with Agile Methodologies. A good team player, and as an ambitious self-starter I am keen to learn and use new technologies and methods. In addition, having particular interest and academic background in human relations I always strive to create a positive atmosphere and cultivate a strong team spirit.
 
 - 📫 How to reach me: Of Course via [Linkedin](https://www.linkedin.com/in/sezginerdem/) 👀
