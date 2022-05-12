@@ -59,11 +59,11 @@
 
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="20"/> [CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/c085d450-cf01-4060-8276-4581ce2e1ff2/public_url)
 
-<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="20"/> [Terraform Associate: Hashicorp Certified](https://www.credly.com/earner/earned/badge/4b4b50bb-c8c4-4a65-a65f-be4bb1b73df0)
+<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="20"/> [Terraform Associate: Hashicorp Certified](https://www.credly.com/badges/4b4b50bb-c8c4-4a65-a65f-be4bb1b73df0/public_url)
 
-<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="20"/> [AWS Certified Solutions Architect – Associate](https://www.credly.com/earner/earned/badge/f2d275ff-a222-4d7a-bd75-588022e95be6)
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="20"/> [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/f2d275ff-a222-4d7a-bd75-588022e95be6/public_url)
 
-<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="20"/> [AWS Certified Cloud Practitioner](https://www.credly.com/earner/earned/badge/f0e35d94-ecbe-44ff-abd6-e3d117b7d7a6)
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="20"/> [AWS Certified Cloud Practitioner](https://www.credly.com/badges/f0e35d94-ecbe-44ff-abd6-e3d117b7d7a6/public_url)
 
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="20"/> [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/7320a29e-62ad-48d9-a728-34007275a737/public_url)
 
