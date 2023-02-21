@@ -26,7 +26,6 @@
   <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="go" width="100" height="50" />
   <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" />
-  <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-official.svg" alt="bitbucket" width="160" height="60" />
   <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="jira" width="160" height="80" />
 
 </p>
