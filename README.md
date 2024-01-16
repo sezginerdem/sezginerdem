@@ -39,7 +39,7 @@
 <br><br><br><br><br><br><br><br>
 
 
-- 🔭 DevOps engineer with 2+ years of experience in supporting and automating critical deployment.
+- 🔭 DevOps engineer with 3+ years of experience in supporting and automating critical deployment.
 - 🌱 Proficient in CI/CD implementation microservice application orchestrated with Kubernetes for different environments such as QA automation, staging, production and deployed on AWS created with Terraform and configured with Ansible.
 - ✌ As a certified AWS Solution Architect, builds the infrastructure from scratch with (Iac) Terraform on AWS, develops alternative solutions to problems and automates this process. Thus, ensures optimum use of resources.
 - 👯 Solid understanding of Software Development Lifecycle with Agile Methodologies. A good team player, and as an ambitious self-starter I am keen to learn and use new technologies and methods. In addition, having particular interest and academic background in human relations I always strive to create a positive atmosphere and cultivate a strong team spirit.
