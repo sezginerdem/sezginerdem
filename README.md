@@ -62,4 +62,4 @@
 
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="20"/> [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/7320a29e-62ad-48d9-a728-34007275a737/public_url)
 
-![snake gif](https://github.com/sezginerdem/sezginerdem/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/sezginerdem/sezginerdem/blob/output/github-contribution-grid-snake.svg)
